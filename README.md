@@ -3,4 +3,4 @@
 Canonical source for Gnosis chain networks. 
 
 - Mainnet: Gnosis Chain, former xDAI [./mainnet](./mainnet)
-- Chiado: main developer testnet [./chiado](./chiado)
+-svvaladez11: main developer testnet [./svvaladez11](./svvaladez11$
